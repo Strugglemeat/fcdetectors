@@ -1,0 +1,11 @@
+start=Start,raw,eq,0xa338,38,2
+start=Start,raw,eq,0xa9c5,38,2
+
+all give phantom wins:
+player2=P2 Win,raw,eq,0xa17f,1,2
+player2=P2 Win,raw,eq,0xa16b,1,2
+player2=P2 Win,raw,eq,0xa9c7,1,2
+player2=P2 Win,raw,eq,0xa9c8,1,2
+player2=P2 Win,raw,eq,0xa9cd,1,2
+
+[solid] player1=P1 Win,raw,eq,0xa9d1,1,2
