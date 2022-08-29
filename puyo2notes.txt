@@ -1,8 +1,0 @@
-backup
-start=Start,raw,eq,0xE0A119,1,1
-player1=P1 Win,raw,eq,0xE0A111,1,1
-player2=P2 Win,raw,eq,0xE0A116,1,1
-
-start=Start,raw,eq,0xe0a140,129,2
-player1=P1 Win,raw,eq,0xE0A111,1,1
-player2=P2 Win,raw,eq,0xE0A190,1,1
